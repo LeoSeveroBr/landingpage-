@@ -1,0 +1,19 @@
+@media screen and (max-width: 760px){
+    header{
+        flex-direction: column;
+    }
+
+    main{
+        flex-direction: column;
+    }
+    h2{
+        font-size: 18px;
+        padding: 5px;
+    }
+    aside{
+        margin: 0 auto;
+    }
+    footer{
+        margin: 0 auto;
+    }
+}
